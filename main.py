@@ -14,7 +14,7 @@ jd = parse_jd()  # default JD
 role = st.sidebar.text_input("Role", jd["role"])
 skills = st.sidebar.text_area("Skills (comma separated)", ", ".join(jd["skills"]))
 experience = st.sidebar.text_input("Experience", jd["experience"])
-targetcompanies = st.sidebar.text_input("companies", jd["companies"])
+targetcompanies = st.sidebar.text_input("Companies", jd.get("companies", ""))
 location = st.sidebar.text_input("Location", jd["location"])
 
 
@@ -23,7 +23,7 @@ if st.sidebar.button("🔍 Search Profiles"):
         "role": role,
         "skills": [s.strip() for s in skills.split(",") if s.strip()],
         "experience": experience,
-        "target companies":companies,
+        "companies": targetcompanies,
         "location": location
     }
 
