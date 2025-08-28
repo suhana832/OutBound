@@ -1,2 +1,90 @@
-We are hiring a Sr. UX Designer at OnlineSales.ai. You must have experience in Figma, Adobe Creative Suite, and UI/UX design. 
-Ideal candidate should have 5+ years of experience in a SaaS environment. Location: Pune, India.
+
+📋 JD Parser – AI Assistant
+Upload a .txt, .pdf, or .docx Job Description and get structured AI-based output!
+
+Upload JD File
+
+JD-Product Marketing Manager (1).pdf
+Drag and drop file here
+Limit 200MB per file • TXT, PDF, DOCX
+JD-Product Marketing Manager (1).pdf
+354.5KB
+✅ JD Parsed Successfully!
+
+📄 Parsed JD Output:
+1. ✅ Search Criteria
+Boolean Keyword String: "Product Marketing Manager" AND ("SaaS" OR "Fintech") AND ("B2B" OR "B2B SaaS") AND ("Spend Management" OR "Corporate Card" OR "Expense Management") AND India AND (Mumbai OR Chennai)
+
+Mandatory Skills/Experience:
+
+3+ years experience in SaaS product marketing (B2B preferred)
+Understanding of product marketing lifecycle (strategy to launch execution)
+Experience developing & executing marketing campaigns across multiple channels
+Excellent writing & communication skills
+Ability to work independently and in a team
+Strong analytical & problem-solving skills
+Preferred Skills/Experience:
+
+Fintech industry experience
+B2B lead generation and sales experience
+Experience with marketing automation tools
+2. 🧠 10 Screening Questions and Answers
+Category: Domain Expertise
+
+Question: Describe your experience in developing and executing a go-to-market strategy for a B2B SaaS product. What were the key challenges and how did you overcome them?
+
+Ideal Answer: Should detail a specific example, outlining the strategy (target audience, messaging, channels, KPIs), challenges faced (e.g., market entry barriers, competitor analysis, budget constraints), and solutions implemented (e.g., A/B testing, content optimization, strategic partnerships). Quantifiable results are crucial.
+Question: Explain your understanding of the B2B SaaS product marketing lifecycle. How does it differ from B2C marketing?
+
+Ideal Answer: Should demonstrate a clear understanding of the stages (ideation, planning, development, launch, growth, etc.) and highlight key differences in customer journey, messaging, and channel selection between B2B and B2C.
+Category: Product/Tech Depth
+
+Question: How familiar are you with the corporate card and spend management space? What are some of the key trends and challenges in this market?
+
+Ideal Answer: Should showcase knowledge of current market dynamics, regulatory issues, key players, and emerging technologies (e.g., AI, automation) within the spend management sector.
+Question: Imagine we're launching a new feature in our spend management platform. Describe your approach to marketing this new feature to existing and prospective clients.
+
+Ideal Answer: Should outline a multi-channel marketing plan leveraging email, social media, content marketing, webinars, etc., targeting both existing and prospective customers with tailored messaging.
+Category: Cross-functional/Partner Management
+
+Question: How would you collaborate with the sales and customer success teams to ensure a smooth product launch and ongoing customer engagement?
+
+Ideal Answer: Should detail a collaborative approach, including joint planning sessions, aligned messaging, shared KPIs, and feedback loops to optimize marketing efforts and customer experience.
+Question: Describe your experience working with marketing automation tools. Which tools are you most familiar with and why?
+
+Ideal Answer: Should name specific tools (e.g., Marketo, HubSpot, Salesforce Marketing Cloud) and explain their use in specific marketing campaigns and how they contribute to improved efficiency and ROI.
+Category: Fitment & Motivation
+
+Question: Why are you interested in this role at Kodo? What aspects of our company and product resonate with you?
+
+Ideal Answer: Should demonstrate genuine interest in Kodo's mission, values, and product, showcasing research into the company and its market position.
+Question: This is a newly created role; what excites you about building this function from the ground up? What are your strategies for success in such an environment?
+
+Ideal Answer: Should showcase proactive and independent working style, detailing plans for building a marketing strategy, setting up processes and establishing a strong foundation for the department.
+Question: Describe a time you had to adapt your marketing strategy due to unforeseen circumstances. How did you react and what was the outcome?
+
+Ideal Answer: Should highlight adaptability and problem-solving skills, providing a specific example of how they adjusted their approach and the positive results achieved.
+Question: What are your salary expectations for this role?
+
+Ideal Answer: Should provide a realistic salary range based on experience and research of similar roles in the market.
+3. 🗺️ Source Mapping
+Companies in India (Chennai preferred):
+
+Fintech startups in Chennai (e.g., search for "Fintech Chennai" on Google, LinkedIn, AngelList)
+Larger tech companies in Chennai with product marketing teams (e.g., Zoho, Infosys, TCS)
+Payment gateway companies in India
+SaaS companies with B2B focus
+Relevant Job Titles:
+
+Product Marketing Manager
+Senior Product Marketing Manager
+B2B Product Marketing Manager
+SaaS Product Marketing Manager
+Marketing Manager (Fintech)
+Head of Product Marketing
+LinkedIn Filters:
+
+Title: Use the above job titles. Combine with Boolean operators (OR) for broader reach.
+Skills: "Product Marketing," "Go-to-Market Strategy," "SaaS," "Fintech," "B2B," "Marketing Automation," "Content Marketing," "Digital Marketing," "Lead Generation," "Spend Management," "Corporate Cards"
+Location: Mumbai, Chennai, Bangalore, India (Initially focus on Mumbai & Chennai, then expand)
+Experience: 3+ years
