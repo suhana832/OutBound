@@ -81,3 +81,5 @@ Title: Use the above job titles. Combine with Boolean operators (OR) for broader
 Skills: "Product Marketing," "Go-to-Market Strategy," "SaaS," "Fintech," "B2B," "Marketing Automation," "Content Marketing," "Digital Marketing," "Lead Generation," "Spend Management," "Corporate Cards"
 Location: Mumbai, Chennai, Bangalore, India (Initially focus on Mumbai & Chennai, then expand)
 Experience: 3+ years
+
+Razorpay, pleo, ramp, happay, epic , volopay, carbon
