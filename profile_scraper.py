@@ -6,7 +6,7 @@ SERPER_API_KEY = st.secrets["SERPER_API_KEY"]   # Loaded from secrets.toml
 def search_profiles_with_serper(jd):
     query_parts = [f'"{jd["role"]}"'] + [f'"{skill}"' for skill in jd["skills"]]
     query_parts.append(f'"{jd["experience"]} experience"')
-    query_parts.append(f'"{jd["targetcompanies"]}"')
+    query_parts.append(f'"{jd["companies"]}"')
     query_parts.append(f'"{jd["location"]}"')
     query_parts.append('site:linkedin.com/in OR site:github.com')
 
