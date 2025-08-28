@@ -2,13 +2,6 @@
 📋 JD Parser – AI Assistant
 Upload a .txt, .pdf, or .docx Job Description and get structured AI-based output!
 
-Upload JD File
-
-JD-Product Marketing Manager (1).pdf
-Drag and drop file here
-Limit 200MB per file • TXT, PDF, DOCX
-JD-Product Marketing Manager (1).pdf
-354.5KB
 ✅ JD Parsed Successfully!
 
 📄 Parsed JD Output:
